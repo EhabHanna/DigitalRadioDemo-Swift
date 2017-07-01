@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B20F4E431F071D0E00971F4E /* onair.xml in Resources */ = {isa = PBXBuildFile; fileRef = B20F4E421F071D0E00971F4E /* onair.xml */; };
+		B20F4E441F071D0E00971F4E /* onair.xml in Resources */ = {isa = PBXBuildFile; fileRef = B20F4E421F071D0E00971F4E /* onair.xml */; };
+		B20F4E451F071D0E00971F4E /* onair.xml in Resources */ = {isa = PBXBuildFile; fileRef = B20F4E421F071D0E00971F4E /* onair.xml */; };
 		B20F9AB31F03BB96005C515F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AB21F03BB96005C515F /* AppDelegate.swift */; };
 		B20F9AB51F03BB96005C515F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AB41F03BB96005C515F /* ViewController.swift */; };
 		B20F9AB81F03BB96005C515F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B20F9AB61F03BB96005C515F /* Main.storyboard */; };
@@ -14,6 +17,15 @@
 		B20F9ABD1F03BB96005C515F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B20F9ABB1F03BB96005C515F /* LaunchScreen.storyboard */; };
 		B20F9AC81F03BB96005C515F /* DigitalRadioDemo_SwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AC71F03BB96005C515F /* DigitalRadioDemo_SwiftTests.swift */; };
 		B20F9AD31F03BB96005C515F /* DigitalRadioDemo_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AD21F03BB96005C515F /* DigitalRadioDemo_SwiftUITests.swift */; };
+		B20F9AE11F03BC0C005C515F /* AIMOnAirDocumentParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AE01F03BC0C005C515F /* AIMOnAirDocumentParser.swift */; };
+		B20F9AE21F03BC0C005C515F /* AIMOnAirDocumentParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AE01F03BC0C005C515F /* AIMOnAirDocumentParser.swift */; };
+		B20F9AE31F03BC0C005C515F /* AIMOnAirDocumentParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AE01F03BC0C005C515F /* AIMOnAirDocumentParser.swift */; };
+		B20F9AE51F03C059005C515F /* OnAirXMLDocumentParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AE41F03C059005C515F /* OnAirXMLDocumentParser.swift */; };
+		B20F9AE61F03C059005C515F /* OnAirXMLDocumentParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AE41F03C059005C515F /* OnAirXMLDocumentParser.swift */; };
+		B20F9AE71F03C059005C515F /* OnAirXMLDocumentParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AE41F03C059005C515F /* OnAirXMLDocumentParser.swift */; };
+		B20F9AE91F03C263005C515F /* OnAirDocument.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AE81F03C263005C515F /* OnAirDocument.swift */; };
+		B20F9AEA1F03C263005C515F /* OnAirDocument.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AE81F03C263005C515F /* OnAirDocument.swift */; };
+		B20F9AEB1F03C263005C515F /* OnAirDocument.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AE81F03C263005C515F /* OnAirDocument.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B20F4E421F071D0E00971F4E /* onair.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = onair.xml; sourceTree = "<group>"; };
 		B20F9AAF1F03BB96005C515F /* DigitalRadioDemo-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DigitalRadioDemo-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B20F9AB21F03BB96005C515F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B20F9AB41F03BB96005C515F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +60,9 @@
 		B20F9ACE1F03BB96005C515F /* DigitalRadioDemo-SwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DigitalRadioDemo-SwiftUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B20F9AD21F03BB96005C515F /* DigitalRadioDemo_SwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigitalRadioDemo_SwiftUITests.swift; sourceTree = "<group>"; };
 		B20F9AD41F03BB96005C515F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B20F9AE01F03BC0C005C515F /* AIMOnAirDocumentParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AIMOnAirDocumentParser.swift; sourceTree = "<group>"; };
+		B20F9AE41F03C059005C515F /* OnAirXMLDocumentParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnAirXMLDocumentParser.swift; sourceTree = "<group>"; };
+		B20F9AE81F03C263005C515F /* OnAirDocument.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnAirDocument.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,11 +113,15 @@
 		B20F9AB11F03BB96005C515F /* DigitalRadioDemo-Swift */ = {
 			isa = PBXGroup;
 			children = (
+				B20F4E421F071D0E00971F4E /* onair.xml */,
 				B20F9AB21F03BB96005C515F /* AppDelegate.swift */,
 				B20F9AB41F03BB96005C515F /* ViewController.swift */,
 				B20F9AB61F03BB96005C515F /* Main.storyboard */,
 				B20F9AB91F03BB96005C515F /* Assets.xcassets */,
 				B20F9ABB1F03BB96005C515F /* LaunchScreen.storyboard */,
+				B20F9AE01F03BC0C005C515F /* AIMOnAirDocumentParser.swift */,
+				B20F9AE81F03C263005C515F /* OnAirDocument.swift */,
+				B20F9AE41F03C059005C515F /* OnAirXMLDocumentParser.swift */,
 				B20F9ABE1F03BB96005C515F /* Info.plist */,
 			);
 			path = "DigitalRadioDemo-Swift";
@@ -236,6 +256,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B20F9ABD1F03BB96005C515F /* LaunchScreen.storyboard in Resources */,
+				B20F4E431F071D0E00971F4E /* onair.xml in Resources */,
 				B20F9ABA1F03BB96005C515F /* Assets.xcassets in Resources */,
 				B20F9AB81F03BB96005C515F /* Main.storyboard in Resources */,
 			);
@@ -245,6 +266,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B20F4E441F071D0E00971F4E /* onair.xml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +274,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B20F4E451F071D0E00971F4E /* onair.xml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,7 +285,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B20F9AE11F03BC0C005C515F /* AIMOnAirDocumentParser.swift in Sources */,
+				B20F9AE51F03C059005C515F /* OnAirXMLDocumentParser.swift in Sources */,
 				B20F9AB51F03BB96005C515F /* ViewController.swift in Sources */,
+				B20F9AE91F03C263005C515F /* OnAirDocument.swift in Sources */,
 				B20F9AB31F03BB96005C515F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,6 +298,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B20F9AC81F03BB96005C515F /* DigitalRadioDemo_SwiftTests.swift in Sources */,
+				B20F9AE61F03C059005C515F /* OnAirXMLDocumentParser.swift in Sources */,
+				B20F9AEA1F03C263005C515F /* OnAirDocument.swift in Sources */,
+				B20F9AE21F03BC0C005C515F /* AIMOnAirDocumentParser.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +309,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B20F9AD31F03BB96005C515F /* DigitalRadioDemo_SwiftUITests.swift in Sources */,
+				B20F9AE71F03C059005C515F /* OnAirXMLDocumentParser.swift in Sources */,
+				B20F9AEB1F03C263005C515F /* OnAirDocument.swift in Sources */,
+				B20F9AE31F03BC0C005C515F /* AIMOnAirDocumentParser.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -516,6 +548,7 @@
 				B20F9AD91F03BB96005C515F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B20F9ADA1F03BB96005C515F /* Build configuration list for PBXNativeTarget "DigitalRadioDemo-SwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +557,7 @@
 				B20F9ADC1F03BB96005C515F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B20F9ADD1F03BB96005C515F /* Build configuration list for PBXNativeTarget "DigitalRadioDemo-SwiftUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +566,7 @@
 				B20F9ADF1F03BB96005C515F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<onAir>
+	<epgData>
+		<epgItem id="160" name="Mornings" description="Zan Rowe brings you new music and exclusives to your morning. Listen up for album interviews and tips on your new favourite band." time="2017-06-23T09:00:00+10:00" duration="03:00:00" presenter="" >
+			<customFields>
+				<customField name="image320" value="http://www.abc.net.au/triplej/programs/img/2017/mornings_zan/background.jpg" />
+				<customField name="displayTime" value="Mon-Fri 9am-12pm" />
+				<customField name="image640" value="http://www.abc.net.au/triplej/programs/img/2017/mornings_zan/background640.jpg" />
+				<customField name="image70" value="http://www.abc.net.au/triplej/programs/img/2017/mornings_zan/70.jpg" />
+				<customField name="image50" value="http://www.abc.net.au/triplej/programs/img/2017/mornings_zan/50.jpg" />
+			</customFields>
+		</epgItem>
+	</epgData>
+	<playoutData>
+		<playoutItem time="2017-06-23T10:04:20+10:00" duration="00:03:24" title="The Way You Used To Do" artist="Queens Of The Stone Age" album="The Way You Used To Do {Single}" status="playing" type="song" imageUrl="http://www.abc.net.au/triplej/albums/56045/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:56:10+10:00" duration="00:03:48" title="Hot Thoughts" artist="Spoon" album="Hot Thoughts" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/55627/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:53:23+10:00" duration="00:02:22" title="Here If You Need" artist="Wet Lips" album="Here If You Need {Single}" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/default/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:49:34+10:00" duration="00:03:53" title="I Dare You" artist="The xx" album="I See You" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/55618/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:44:49+10:00" duration="00:04:09" title="What's Your Malfunction?" artist="Funkoars" album="The Hangover" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/44544/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:41:08+10:00" duration="00:03:41" title="On Your Way Down" artist="The Jungle Giants" album="On Your Way Down {Single}" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/55946/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:36:20+10:00" duration="00:04:48" title="The Dreamer {Ft. Talib Kweli/Timan Family Choir}" artist="Anderson .Paak" album="Malibu" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/54449/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:32:43+10:00" duration="00:03:47" title="Lost: Season One" artist="Camp Cope" album="Camp Cope" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/54750/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:29:18+10:00" duration="00:03:26" title="Dust" artist="Antony &amp; Cleopatra" album="Dust {Single}" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/55949/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:24:55+10:00" duration="00:04:08" title="Fool's Gold" artist="Jack River" album="Fool's Gold {Single}" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/56057/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:21:49+10:00" duration="00:03:15" title="Recall" artist="The Money War" album="Recall {Single}" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/default/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:17:46+10:00" duration="00:03:50" title="Cool Breeze Over The Mountains" artist="Love Deluxe" album="Cool Breeze Over The Mountains {Single}" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/55947/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:14:34+10:00" duration="00:03:14" title="Big Fish" artist="Vince Staples" album="Big Fish {Single}" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/55962/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:09:14+10:00" duration="00:02:25" title="Superman" artist="Dune Rats" album="Dune Rats" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/52571/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T09:03:30+10:00" duration="00:03:30" title="Shallow End" artist="Ayla" album="Shallow End {Single}" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/55912/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T08:56:13+10:00" duration="00:03:28" title="Count On Me {Ft. LANKS}" artist="Kilter" album="Count On Me {Single}" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/55718/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T08:50:39+10:00" duration="00:03:15" title="Sober" artist="Lorde" album="Melodrama" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/56046/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T08:46:39+10:00" duration="00:03:34" title="Atmosphere" artist="Kingswood" album="After Hours, Close To Dawn" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/56002/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T08:37:47+10:00" duration="00:04:28" title="Oh! Hark!" artist="Lisa Mitchell" album="Wonder" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/44670/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+		<playoutItem time="2017-06-23T08:33:42+10:00" duration="00:03:29" title="Can't Do" artist="Everything Everything" album="A Fever Dream {Can't Do Single}" status="history" type="song" imageUrl="http://www.abc.net.au/triplej/albums/56042/covers/190.jpg">
+			<customFields>
+				<customField name="tracknote" value="" />
+			</customFields>
+		</playoutItem>
+	</playoutData>
+
+</onAir>
