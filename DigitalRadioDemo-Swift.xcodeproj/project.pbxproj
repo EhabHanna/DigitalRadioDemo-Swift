@@ -7,11 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B20962881F107C1B004259E5 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20962871F107C1B004259E5 /* ListViewController.swift */; };
+		B20962891F107C1B004259E5 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20962871F107C1B004259E5 /* ListViewController.swift */; };
+		B209628A1F107C1B004259E5 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20962871F107C1B004259E5 /* ListViewController.swift */; };
+		B209628C1F10ABAE004259E5 /* EPGTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B209628B1F10ABAE004259E5 /* EPGTableViewCell.swift */; };
+		B209628D1F10ABAE004259E5 /* EPGTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B209628B1F10ABAE004259E5 /* EPGTableViewCell.swift */; };
+		B209628E1F10ABAE004259E5 /* EPGTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B209628B1F10ABAE004259E5 /* EPGTableViewCell.swift */; };
+		B20962901F10ABD3004259E5 /* PlayoutTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B209628F1F10ABD3004259E5 /* PlayoutTableViewCell.swift */; };
+		B20962911F10ABD3004259E5 /* PlayoutTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B209628F1F10ABD3004259E5 /* PlayoutTableViewCell.swift */; };
+		B20962921F10ABD3004259E5 /* PlayoutTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B209628F1F10ABD3004259E5 /* PlayoutTableViewCell.swift */; };
+		B20962941F10AC3B004259E5 /* OnAirItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20962931F10AC3B004259E5 /* OnAirItemTableViewCell.swift */; };
+		B20962951F10AC3B004259E5 /* OnAirItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20962931F10AC3B004259E5 /* OnAirItemTableViewCell.swift */; };
+		B20962961F10AC3B004259E5 /* OnAirItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20962931F10AC3B004259E5 /* OnAirItemTableViewCell.swift */; };
+		B20962981F10AC75004259E5 /* HeaderViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20962971F10AC75004259E5 /* HeaderViewCell.swift */; };
+		B20962991F10AC75004259E5 /* HeaderViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20962971F10AC75004259E5 /* HeaderViewCell.swift */; };
+		B209629A1F10AC75004259E5 /* HeaderViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20962971F10AC75004259E5 /* HeaderViewCell.swift */; };
+		B209629C1F10D9DC004259E5 /* IconDownloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = B209629B1F10D9DC004259E5 /* IconDownloader.swift */; };
+		B209629D1F10D9DC004259E5 /* IconDownloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = B209629B1F10D9DC004259E5 /* IconDownloader.swift */; };
+		B209629E1F10D9DC004259E5 /* IconDownloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = B209629B1F10D9DC004259E5 /* IconDownloader.swift */; };
 		B20F4E431F071D0E00971F4E /* onair.xml in Resources */ = {isa = PBXBuildFile; fileRef = B20F4E421F071D0E00971F4E /* onair.xml */; };
 		B20F4E441F071D0E00971F4E /* onair.xml in Resources */ = {isa = PBXBuildFile; fileRef = B20F4E421F071D0E00971F4E /* onair.xml */; };
 		B20F4E451F071D0E00971F4E /* onair.xml in Resources */ = {isa = PBXBuildFile; fileRef = B20F4E421F071D0E00971F4E /* onair.xml */; };
+		B20F4E481F0A530200971F4E /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F4E471F0A530200971F4E /* Reachability.swift */; };
+		B20F4E491F0A530200971F4E /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F4E471F0A530200971F4E /* Reachability.swift */; };
+		B20F4E4A1F0A530200971F4E /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F4E471F0A530200971F4E /* Reachability.swift */; };
 		B20F9AB31F03BB96005C515F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AB21F03BB96005C515F /* AppDelegate.swift */; };
-		B20F9AB51F03BB96005C515F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AB41F03BB96005C515F /* ViewController.swift */; };
+		B20F9AB51F03BB96005C515F /* InitialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20F9AB41F03BB96005C515F /* InitialViewController.swift */; };
 		B20F9AB81F03BB96005C515F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B20F9AB61F03BB96005C515F /* Main.storyboard */; };
 		B20F9ABA1F03BB96005C515F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B20F9AB91F03BB96005C515F /* Assets.xcassets */; };
 		B20F9ABD1F03BB96005C515F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B20F9ABB1F03BB96005C515F /* LaunchScreen.storyboard */; };
@@ -46,10 +67,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B20962871F107C1B004259E5 /* ListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
+		B209628B1F10ABAE004259E5 /* EPGTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EPGTableViewCell.swift; sourceTree = "<group>"; };
+		B209628F1F10ABD3004259E5 /* PlayoutTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayoutTableViewCell.swift; sourceTree = "<group>"; };
+		B20962931F10AC3B004259E5 /* OnAirItemTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnAirItemTableViewCell.swift; sourceTree = "<group>"; };
+		B20962971F10AC75004259E5 /* HeaderViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeaderViewCell.swift; sourceTree = "<group>"; };
+		B209629B1F10D9DC004259E5 /* IconDownloader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IconDownloader.swift; sourceTree = "<group>"; };
 		B20F4E421F071D0E00971F4E /* onair.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = onair.xml; sourceTree = "<group>"; };
+		B20F4E471F0A530200971F4E /* Reachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
 		B20F9AAF1F03BB96005C515F /* DigitalRadioDemo-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DigitalRadioDemo-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B20F9AB21F03BB96005C515F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B20F9AB41F03BB96005C515F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B20F9AB41F03BB96005C515F /* InitialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialViewController.swift; sourceTree = "<group>"; };
 		B20F9AB71F03BB96005C515F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B20F9AB91F03BB96005C515F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B20F9ABC1F03BB96005C515F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -90,6 +118,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B20F4E461F0A530200971F4E /* External */ = {
+			isa = PBXGroup;
+			children = (
+				B20F4E471F0A530200971F4E /* Reachability.swift */,
+			);
+			path = External;
+			sourceTree = "<group>";
+		};
 		B20F9AA61F03BB96005C515F = {
 			isa = PBXGroup;
 			children = (
@@ -113,10 +149,17 @@
 		B20F9AB11F03BB96005C515F /* DigitalRadioDemo-Swift */ = {
 			isa = PBXGroup;
 			children = (
+				B20F4E461F0A530200971F4E /* External */,
 				B20F4E421F071D0E00971F4E /* onair.xml */,
 				B20F9AB21F03BB96005C515F /* AppDelegate.swift */,
-				B20F9AB41F03BB96005C515F /* ViewController.swift */,
+				B20F9AB41F03BB96005C515F /* InitialViewController.swift */,
+				B20962871F107C1B004259E5 /* ListViewController.swift */,
 				B20F9AB61F03BB96005C515F /* Main.storyboard */,
+				B20962971F10AC75004259E5 /* HeaderViewCell.swift */,
+				B209628B1F10ABAE004259E5 /* EPGTableViewCell.swift */,
+				B209628F1F10ABD3004259E5 /* PlayoutTableViewCell.swift */,
+				B20962931F10AC3B004259E5 /* OnAirItemTableViewCell.swift */,
+				B209629B1F10D9DC004259E5 /* IconDownloader.swift */,
 				B20F9AB91F03BB96005C515F /* Assets.xcassets */,
 				B20F9ABB1F03BB96005C515F /* LaunchScreen.storyboard */,
 				B20F9AE01F03BC0C005C515F /* AIMOnAirDocumentParser.swift */,
@@ -285,11 +328,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B209628C1F10ABAE004259E5 /* EPGTableViewCell.swift in Sources */,
 				B20F9AE11F03BC0C005C515F /* AIMOnAirDocumentParser.swift in Sources */,
+				B20962981F10AC75004259E5 /* HeaderViewCell.swift in Sources */,
+				B209629C1F10D9DC004259E5 /* IconDownloader.swift in Sources */,
 				B20F9AE51F03C059005C515F /* OnAirXMLDocumentParser.swift in Sources */,
-				B20F9AB51F03BB96005C515F /* ViewController.swift in Sources */,
+				B20F4E481F0A530200971F4E /* Reachability.swift in Sources */,
+				B20F9AB51F03BB96005C515F /* InitialViewController.swift in Sources */,
+				B20962901F10ABD3004259E5 /* PlayoutTableViewCell.swift in Sources */,
 				B20F9AE91F03C263005C515F /* OnAirDocument.swift in Sources */,
 				B20F9AB31F03BB96005C515F /* AppDelegate.swift in Sources */,
+				B20962941F10AC3B004259E5 /* OnAirItemTableViewCell.swift in Sources */,
+				B20962881F107C1B004259E5 /* ListViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,9 +348,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				B20F9AC81F03BB96005C515F /* DigitalRadioDemo_SwiftTests.swift in Sources */,
+				B20962951F10AC3B004259E5 /* OnAirItemTableViewCell.swift in Sources */,
+				B209629D1F10D9DC004259E5 /* IconDownloader.swift in Sources */,
 				B20F9AE61F03C059005C515F /* OnAirXMLDocumentParser.swift in Sources */,
+				B20962891F107C1B004259E5 /* ListViewController.swift in Sources */,
 				B20F9AEA1F03C263005C515F /* OnAirDocument.swift in Sources */,
+				B20F4E491F0A530200971F4E /* Reachability.swift in Sources */,
 				B20F9AE21F03BC0C005C515F /* AIMOnAirDocumentParser.swift in Sources */,
+				B20962911F10ABD3004259E5 /* PlayoutTableViewCell.swift in Sources */,
+				B209628D1F10ABAE004259E5 /* EPGTableViewCell.swift in Sources */,
+				B20962991F10AC75004259E5 /* HeaderViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -309,9 +366,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				B20F9AD31F03BB96005C515F /* DigitalRadioDemo_SwiftUITests.swift in Sources */,
+				B20962961F10AC3B004259E5 /* OnAirItemTableViewCell.swift in Sources */,
+				B209629E1F10D9DC004259E5 /* IconDownloader.swift in Sources */,
 				B20F9AE71F03C059005C515F /* OnAirXMLDocumentParser.swift in Sources */,
+				B209628A1F107C1B004259E5 /* ListViewController.swift in Sources */,
 				B20F9AEB1F03C263005C515F /* OnAirDocument.swift in Sources */,
+				B20F4E4A1F0A530200971F4E /* Reachability.swift in Sources */,
 				B20F9AE31F03BC0C005C515F /* AIMOnAirDocumentParser.swift in Sources */,
+				B20962921F10ABD3004259E5 /* PlayoutTableViewCell.swift in Sources */,
+				B209628E1F10ABAE004259E5 /* EPGTableViewCell.swift in Sources */,
+				B209629A1F10AC75004259E5 /* HeaderViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
